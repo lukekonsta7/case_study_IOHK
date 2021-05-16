@@ -1,4 +1,4 @@
-# _Case_Study_IOHK_
+# _Case_Study_IOHK_ (Input Output Hong Kong)
 
 ## Overview and Origin
 
